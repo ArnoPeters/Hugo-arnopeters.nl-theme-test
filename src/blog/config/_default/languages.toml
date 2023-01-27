@@ -1,0 +1,13 @@
+  [en]
+    #title = 'My blog'
+    #weight = 1
+    #[languages.en.params]
+    #  linkedin = 'https://linkedin.com/whoever'
+  [nl]
+    #title = 'Mon blogue'
+    #weight = 2
+    #[languages.nl.params]
+    #  linkedin = 'https://linkedin.com/fr/whoever'
+    #  [languages.nl.params.navigation]
+    #    help = 'Aide'
+  

@@ -1,7 +1,17 @@
 {
-  "recommendations": [
-    "ms-azuretools.vscode-azurestaticwebapps", 
-    "ms-vscode-remote.remote-containers",
-    "ms-vscode.azure-account"
-  ]
+	"recommendations": [
+		"ms-azuretools.vscode-azurestaticwebapps",
+		"ms-vscode-remote.remote-containers",
+		"ms-vscode.azure-account",
+		"znck.grammarly",
+		"ms-vscode.powershell", //required to launch hugo for debugging. VScode standard supports node, perhaps it is possible to put shell command in node???
+		//"akmittal.hugofy",
+		//"christian-kohler.npm-intellisense",
+		"ms-playwright.playwright",
+		//"redhat.vscode-yaml",
+		//"shinotatwu-ds.file-tree-generator",
+		"davidanson.vscode-markdownlint",
+		"ms-playwright.playwright",
+		"Gruntfuggly.todo-tree"
+	]
 }

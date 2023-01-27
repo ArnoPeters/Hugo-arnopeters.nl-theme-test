@@ -1,0 +1,34 @@
+# Defaults for reveal_hugo
+[reveal_hugo]
+history = true
+#custom_theme = "lib/reveal-hugo/themes/robot-lung.css"
+theme = "dracula"
+margin = 0.2
+highlight_theme = "color-brewer"
+transition = "slide"
+transition_speed = "fast"
+
+# used in content/template-example
+[reveal_hugo.templates.grey]
+background = "#424242"
+transition = "convex"
+
+[author]
+# internet weblog config
+FullName = "Arno Peters"
+Handle = "Arno Peters"
+FirstName = "Arno"
+LastName = "Peters"
+AboutPage = "/about"
+#Location = "Durham, NC"
+#FlickrID = "87151163@N00"
+
+[twitter]
+handle = "dev_arnopeters"
+
+[Facebook]
+# Non-Essential, But Required for Analytics 
+#appId = ""
+
+[Mastodon]
+profile = "https://mastodon.cloud/@arnopeters"

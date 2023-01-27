@@ -1,0 +1,23 @@
+{
+	"grammarly.files.include": [
+		"**/readme.md",
+		"**/README.md",
+		"**/*.txt",
+		"**/content/*.md",
+		"**/content/**/*.md"
+	],
+	"grammarly.files.exclude": [
+		"**/*nl.md"
+	],
+	"grammarly.config.suggestions.PassiveVoice": true,
+	"grammarly.config.suggestions.InformalPronounsAcademic": false,
+	"grammarly.config.suggestions.ConjunctionAtStartOfSentence": true,
+	"grammarly.config.documentDomain": "business", 
+	"workbench.colorTheme": "Kimbie Dark",
+	"todo-tree.filtering.excludeGlobs": [
+		"**/archetypes/**/*",
+		"**/static/lib/**/*"
+	],
+	"todo-tree.tree.showCountsInTree": true,
+	"todo-tree.general.showActivityBarBadge": true
+}

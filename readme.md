@@ -1,7 +1,7 @@
-# Vanilla JavaScript App
+Features  
+[![Board Status](https://arnopeters.visualstudio.com/42eaa2dd-503d-4397-b202-7d02457ef9cc/4af46159-5bd7-4412-bc98-2bdeef518180/_apis/work/boardbadge/31f5d409-0d4a-4d06-8595-b32515f0d788)](https://arnopeters.visualstudio.com/42eaa2dd-503d-4397-b202-7d02457ef9cc/_boards/board/t/4af46159-5bd7-4412-bc98-2bdeef518180/Microsoft.FeatureCategory/)
 
-[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build JavaScript apps in minutes. Use this repo with the [quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=vanilla-javascript) to build and customize a new static site.
+PBI's  
+[![Board Status](https://arnopeters.visualstudio.com/42eaa2dd-503d-4397-b202-7d02457ef9cc/4af46159-5bd7-4412-bc98-2bdeef518180/_apis/work/boardbadge/f159bbd8-8947-414a-8f26-9943956c1b37)](https://arnopeters.visualstudio.com/42eaa2dd-503d-4397-b202-7d02457ef9cc/_boards/board/t/4af46159-5bd7-4412-bc98-2bdeef518180/Microsoft.RequirementCategory/)
 
-This repo is used as a starter for a _very basic_ HTML web application using no front-end frameworks.
-
-This repo has a dev container. This means if you open it inside a [GitHub Codespace](https://github.com/features/codespaces), or using [VS Code with the Dev Containers extension](https://code.visualstudio.com/docs/remote/containers), it will be opened inside a container with all the dependencies already installed.
+Arno's blog - private repo.
